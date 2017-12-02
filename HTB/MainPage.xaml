@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+<WebView Source="https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-236/?mq_url=https%3A%2F%2Fstrm.yandex.ru%2Fkal%2Fntv_cv%2Fntv_cv0.m3u8" />
     </Grid>
 </Page>
